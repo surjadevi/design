@@ -12,7 +12,8 @@ The below screenshot shows both desktop and mobile version:
 
 ![alt text](https://github.com/surjadevi/design/blob/main/allweb.png)
 
-The below screenshot shows both desktop  version:
+The below screenshot shows desktop  version:
+
 ![alt text](https://github.com/surjadevi/design/blob/main/desktop.png)
 
 
